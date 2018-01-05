@@ -242,6 +242,15 @@ button::-moz-focus-inner {
     background: #000; }
 
 /* Main image in popup */
+ .logo{
+   width: 4%;
+   padding-bottom: 8px;
+
+.contar{
+   width: 100px;
+}
+
+}
 img.mfp-img {
   width: auto;
   max-width: 100%;
